@@ -52,15 +52,15 @@ export function HeroSection() {
               <span className="block text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-primary">WORLDWIDE</span>
             </h1>
             <p className="mb-8 max-w-xl text-pretty text-md leading-relaxed text-white/90 md:text-lg">
-              Representing elite talent across the globe with unparalleled expertise, dedication, and a commitment to
-              excellence in sports management.
+              Representing elite soccer talent across the globe with unparalleled expertise, dedication, and a commitment to
+              excellence in football management and player development.
             </p>
             <div className="flex flex-wrap gap-4">
               <a
                 href="#talent"
-                className="inline-flex items-center justify-center rounded-md bg-primary p-4 px-6 text-sm font-semibold tracking-wide text-white transition-colors hover:bg-primary/90"
+                className="inline-flex items-center justify-center rounded-md bg-black p-4 px-6 text-sm font-semibold tracking-wide text-white transition-colors hover:bg-primary"
               >
-                OUR TALENT
+                OUR PLAYERS
               </a>
               <a
                 href="#contact"

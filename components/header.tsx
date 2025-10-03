@@ -3,7 +3,7 @@ import { EmpireLogo } from "@/components/empire-logo"
 
 export function Header({ activeItem }: { activeItem?: string }) {
   const navItems = [
-    { label: "EXPERTISE", href: "#expertise" },
+    { label: "WHAT WE DO", href: "#expertise" },
     { label: "LEADERSHIP", href: "#leadership" },
     { label: "TALENT", href: "/talent" },
     { label: "CONTACT", href: "#contact" },
@@ -22,8 +22,8 @@ export function Header({ activeItem }: { activeItem?: string }) {
               <li key={item.label}>
                 <Link
                   href={item.href}
-                  className={`text-sm font-medium tracking-wider transition-colors hover:text-primary ${
-                    activeItem === item.label ? "text-primary border-b-2 border-primary pb-1" : "text-white"
+                  className={`text-sm font-medium tracking-wider transition-colors hover:underline hover:underline-offset-8 ${
+                    activeItem === item.label ? "text-red-500 border-b-2 border-red-500 pb-1" : "text-white"
                   }`}
                 >
                   {item.label}

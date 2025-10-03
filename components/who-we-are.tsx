@@ -5,8 +5,8 @@ export function ExpertiseQuote() {
         <div className="mx-auto w-full max-w-7xl">
           <h2 className="mb-8 text-2xl font-bold tracking-wider text-red-500 md:text-3xl">WHO WE ARE</h2>
           <h1 className="max-w-5xl font-display text-xl font-bold uppercase leading-tight text-white md:text-2xl lg:text-3xl xl:text-4xl">
-            AT EMPIRE SPORTS AGENCY, WE PRIDE OURSELVES ON BEING A PREMIER GLOBAL SPORTS AGENCY, DEDICATED TO ENHANCING
-            BOTH THE ATHLETIC PERFORMANCE AND BRAND STATURE OF OUR ESTEEMED CLIENT-PARTNERS.
+            AT EMPIRE SPORTS AGENCY, WE PRIDE OURSELVES ON BEING A PREMIER GLOBAL FOOTBALL AGENCY, DEDICATED TO ENHANCING
+            BOTH THE ON-PITCH PERFORMANCE AND BRAND STATURE OF OUR ESTEEMED SOCCER CLIENT-PARTNERS.
           </h1>
         </div>
 
@@ -31,12 +31,12 @@ export function ExpertiseQuote() {
           <div>
             <p className="text-sm leading-relaxed text-white md:text-md lg:text-lg">
               As the guiding force behind EMPIRE SPORTS Agency, I stand firm in the belief that our agency's hallmark is our
-              integrity, passion and unwavering dedication to our clients. Whether they're rising stars or established
-              icons, we treat every athlete as a valued partner in their journey to greatness.
+              integrity, passion and unwavering dedication to our soccer clients. Whether they're rising stars or established
+              icons, we treat every footballer as a valued partner in their journey to greatness.
             </p>
             <p className="text-sm leading-relaxed text-white md:text-md lg:text-lg mt-6">
-              Our approach is built on trust, transparency, and a deep understanding of the sports industry. We don't just
-              manage careers; we build legacies that extend far beyond the playing field.
+              Our approach is built on trust, transparency, and a deep understanding of the football industry. We don't just
+              manage careers; we build legacies that extend far beyond the pitch.
             </p>
           </div>
           <div className="mt-6 flex justify-center">

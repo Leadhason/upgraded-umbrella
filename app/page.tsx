@@ -2,6 +2,8 @@ import { Header } from "@/components/header"
 import { HeroSection } from "@/components/hero-section"
 import { ExpertiseQuote } from "@/components/who-we-are"
 import {  ExpertiseServices } from "@/components/what-we-do"
+import { ServicesDeepDive } from "@/components/services-deep-dive"
+import { ClientSuccessStories } from "@/components/client-success-stories"
 import { Leadership } from "@/components/leadership"
 import { ContactSection } from "@/components/contact-section"
 import { Footer } from "@/components/footer"
@@ -19,6 +21,8 @@ export default function Home() {
         </div>
       </div>
       <ExpertiseServices />
+      <ServicesDeepDive />
+      <ClientSuccessStories />
       <Leadership/>
       <ContactSection />
       <Footer />

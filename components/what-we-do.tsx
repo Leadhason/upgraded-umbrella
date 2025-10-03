@@ -3,7 +3,7 @@ export function ExpertiseServices() {
     {
       number: "01.",
       title: "CONTRACT NEGOTIATION",
-      description: "Expertise and persistence in strategy culminate in successful contract outcomes.",
+      description: "Expertise and persistence in transfer negotiations culminate in successful contract outcomes.",
     },
     {
       number: "02.",
@@ -14,7 +14,7 @@ export function ExpertiseServices() {
       number: "03.",
       title: "PERFORMANCE OPTIMIZATION",
       description:
-        "Utilizing cutting-edge, proprietary technology to tailor and optimize each client's peak performance.",
+        "Utilizing cutting-edge technology and analytics to optimize each player's on-pitch performance.",
     },
     {
       number: "04.",
@@ -24,13 +24,13 @@ export function ExpertiseServices() {
     {
       number: "05.",
       title: "PHILANTHROPY",
-      description: "Fostering a legacy of giving, empowering clients to make a meaningful impact beyond their sport.",
+      description: "Fostering a legacy of giving, empowering players to make a meaningful impact beyond football.",
     },
     {
       number: "06.",
       title: "BUSINESS PLANNING",
       description:
-        "Guiding our clients to build lasting legacies with savvy off-court business investments and wealth generation strategies.",
+        "Guiding our players to build lasting legacies with savvy off-pitch business investments and wealth generation strategies.",
     },
   ]
 
@@ -41,8 +41,8 @@ export function ExpertiseServices() {
         <div className="mb-16">
           <h2 className="text-red-500 text-center text-lg md:text-xl font-bold mb-8 tracking-wide">WHAT WE DO</h2>
           <p className="text-white text-xl md:text-2xl lg:text-3xl text-center font-bold leading-tight tracking-wide">
-            DELIVERING ALL-ENCOMPASSING ATHLETE MANAGEMENT, INDIVIDUAL BRAND BUILDING AND ELITE REPRESENTATION, OUR TEAM
-            AT EMPIRE SPORTS AGENCY COMMITS TO INNOVATIVE, FIRST-CLASS SERVICE ACROSS ALL FACETS OF OUR CLIENTS&apos;
+            DELIVERING ALL-ENCOMPASSING FOOTBALLER MANAGEMENT, INDIVIDUAL BRAND BUILDING AND ELITE REPRESENTATION, OUR TEAM
+            AT EMPIRE SPORTS AGENCY COMMITS TO INNOVATIVE, FIRST-CLASS SERVICE ACROSS ALL FACETS OF OUR SOCCER CLIENTS&apos;
             CAREERS.
           </p>
         </div>
