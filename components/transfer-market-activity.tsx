@@ -229,21 +229,6 @@ export function TransferMarketActivity() {
           </div>
         </div>
 
-        {/* CTA */}
-        <div className="mt-16 text-center">
-          <h3 className="mb-4 text-xl font-bold text-white md:text-2xl">
-            Ready to Make Your Move?
-          </h3>
-          <p className="mb-6 text-white/80">
-            Join the players who trust us to navigate their transfer journeys with expertise and success.
-          </p>
-          <a
-            href="#contact"
-            className="inline-flex items-center justify-center rounded-md bg-red-500 px-8 py-4 text-sm font-semibold uppercase tracking-wide text-white transition-colors hover:bg-red-600"
-          >
-            Discuss Your Future
-          </a>
-        </div>
       </div>
     </section>
   )
