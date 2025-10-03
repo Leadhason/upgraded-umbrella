@@ -3,10 +3,10 @@ import { EmpireLogo } from "@/components/empire-logo"
 
 export function Header({ activeItem }: { activeItem?: string }) {
   const navItems = [
-    { label: "WHAT WE DO", href: "#expertise" },
-    { label: "LEADERSHIP", href: "#leadership" },
+    { label: "WHAT WE DO", href: "/what-we-do" },
+    { label: "ABOUT", href: "/about" },
     { label: "TALENT", href: "/talent" },
-    { label: "CONTACT", href: "#contact" },
+    { label: "CONTACT", href: "/contact" },
   ]
 
   return (
