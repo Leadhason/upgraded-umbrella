@@ -84,6 +84,9 @@ module.exports = {
           to: { transform: "translateX(0)" },
         },
       },
+      fontFamily: {
+        'sans': ['var(--font-roboto)', 'system-ui', 'sans-serif'],
+      },
     },
   },
   plugins: [
